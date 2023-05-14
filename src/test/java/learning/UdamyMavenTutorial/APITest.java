@@ -13,6 +13,10 @@ public class APITest {
 		System.out.println("Git APi - user A3");
 		System.out.println("Git APi - user A4");
 		System.out.println("Git APi - user B5");
+		System.out.println("Git APi - user B1");
+		System.out.println("Git APi - user B2");
+		System.out.println("Git APi - user B3");
+
 
 	}
 	
