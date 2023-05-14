@@ -10,6 +10,9 @@ public class APITest {
 		System.out.println("Class -APITest---------> api1 method");
 		System.out.println("Git APi - user A1");
 		System.out.println("Git APi - user A2");
+		System.out.println("Git APi - user A3");
+		System.out.println("Git APi - user A4");
+		System.out.println("Git APi - user B5");
 
 	}
 	
