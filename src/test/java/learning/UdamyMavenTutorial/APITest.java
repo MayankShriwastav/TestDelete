@@ -6,7 +6,11 @@ public class APITest {
 	
 	@Test
 	public void api1(){
+
 		System.out.println("Class -APITest---------> api1 method");
+		System.out.println("Git APi - user A1");
+		System.out.println("Git APi - user A2");
+
 	}
 	
 	@Test
